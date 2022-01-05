@@ -1,0 +1,9 @@
+[package]
+name = "check_folders"
+version = "0.2.5"
+authors = ["Jason <jason@bydesignpublishing.com>"]
+edition = "2018"
+
+[dependencies]
+glob = "0.3.0" 
+colored = "1.7"
