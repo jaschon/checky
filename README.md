@@ -1,6 +1,7 @@
 # checky
 Same script. Multiple languages.
 
+- Bash
 - C
 - Go
 - Lua
@@ -8,4 +9,3 @@ Same script. Multiple languages.
 - Python
 - Ruby
 - Rust
-- Bash
