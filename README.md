@@ -12,4 +12,4 @@ Same script. Multiple languages.
 
 ---
 
-![checky](https://github.com/jaschon/checky/blob/main/screenshots/main.png?raw=true)
+![checky](https://github.com/jaschon/checky/blob/main/_screenshots/main.png?raw=true)
