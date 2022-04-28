@@ -9,3 +9,7 @@ Same script. Multiple languages.
 - Python
 - Ruby
 - Rust
+
+---
+
+![checky](https://github.com/jaschon/checky/blob/main/screenshots/main.png?raw=true)
