@@ -1,7 +1,6 @@
-# checky-c
+# checky-c++
 
-## Checky script in C...
-
+## Checky script in C++...
 
 #### Install
 
@@ -15,5 +14,4 @@ make install
 ```
 make uninstall
 ```
-
 
