@@ -3,6 +3,7 @@ Same script. Multiple languages.
 
 - Bash
 - C
+- C++
 - Go
 - Lua
 - Perl
