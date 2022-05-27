@@ -5,6 +5,7 @@ Same script. Multiple languages.
 - C
 - C++
 - Go
+- Java
 - Lua
 - Perl
 - Python
