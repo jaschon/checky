@@ -9,6 +9,7 @@ Print the number of files in a folder.  Same script. Multiple languages.
 - JavaScript/Node
 - Lua
 - Perl
+- PHP
 - Python
 - Ruby
 - Rust
