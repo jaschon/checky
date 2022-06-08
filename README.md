@@ -6,6 +6,7 @@ Same script. Multiple languages.
 - C++
 - Go
 - Java
+- JavaScript/Node
 - Lua
 - Perl
 - Python
