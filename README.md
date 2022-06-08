@@ -1,5 +1,5 @@
 # checky
-Same script. Multiple languages.
+Print the number of files in a folder.  Same script. Multiple languages.
 
 - Bash
 - C
