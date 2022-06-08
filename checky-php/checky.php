@@ -20,7 +20,7 @@ function get_base_path() {
 function count_path($path) {
     try {
 	if (is_dir($path)) {
-	    return count(glob($path . "*.{jpg,jpeg,gif,png,eps,pdf,psd,webp,bmp}"));
+	    return count(glob($path . "*.{jpg,jpeg,gif,png,eps,pdf,psd,webp,bmp,tif,tiff}"));
 	} else {
 	    return -1;
 	}
